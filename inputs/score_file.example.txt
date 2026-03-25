@@ -1,0 +1,2 @@
+SNP A1 BETA
+rs123 A 0.01
